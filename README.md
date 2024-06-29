@@ -46,7 +46,7 @@ Next, we will configure the Deparments. From the Admin Panel, go to Agents -> De
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Next we will configure the Teams. From the Admin Panel, go to Agents -> Teams. Add 
+Next we will configure the Teams. From the Admin Panel, go to Agents -> Teams. Add the "Level I Support" and "Level II Support" Teams.
 </p>
 <br />
 
@@ -54,7 +54,7 @@ Next we will configure the Teams. From the Admin Panel, go to Agents -> Teams. A
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we will allow anyone to create tickets for our help desk. From the Admin Panel, go to Settings -> User Settings. Require registration and login to create tickets. 
 </p>
 <br />
 
@@ -62,7 +62,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will add some Agents. From the Admin Panel, go to Agents -> Add New. Add some agents here, and name them as you like (eg. Jane and John).
 </p>
 <br />
 
@@ -70,7 +70,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Next, we will add some Users. From the Admin Panel, go to Users -> Add New. Add some users here, and name them as you like (eg. Karen and Ken).
 </p>
 <br />
 
@@ -78,7 +78,10 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Now, we will configure SLA. From the Admin Panel, go to Manage -> SLA. Here we will add 3 SLA: 
+- Sev-A (1 hour, 24/7)
+- Sev-B (4 hours, 24/7)
+- Sev-C (8 hours, business hours)
 </p>
 <br />
 
@@ -86,6 +89,15 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Finally, we will configure Help Topics. From the Admin Panel, go to Manage -> Help Topics. We will add the following Help Topics: 
+- Business Critical Outage
+- Personal Computer Issues
+- Equipment Request
+- Password Reset
+</p>
+<br />
+
+<p>
+Now we are ready to begin running our osTicket help desk that we set up!
 </p>
 <br />
