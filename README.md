@@ -35,7 +35,7 @@ First, we will configure the Roles. From the Admin Panel, go to Agents -> Roles.
 <br />
 
 <p>
-<img src="https://i.imgur.com/SAdOLsG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MrYzOA1.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we will configure the Deparments. From the Admin Panel, go to Agents -> Departments. Add "System Administrators" Department.
