@@ -79,9 +79,15 @@ Next, we will add some Users. From the Admin Panel, go to Users -> Add New. Add 
 </p>
 <p>
 Now, we will configure SLA. From the Admin Panel, go to Manage -> SLA. Here we will add 3 SLA: 
+<p>
 - Sev-A (1 hour, 24/7)
+</p>
+<p>
 - Sev-B (4 hours, 24/7)
+</p>
+<p>
 - Sev-C (8 hours, business hours)
+</p>
 </p>
 <br />
 
@@ -90,10 +96,18 @@ Now, we will configure SLA. From the Admin Panel, go to Manage -> SLA. Here we w
 </p>
 <p>
 Finally, we will configure Help Topics. From the Admin Panel, go to Manage -> Help Topics. We will add the following Help Topics: 
+<p>
 - Business Critical Outage
+</p>
+<p>
 - Personal Computer Issues
+</p>
+<p>
 - Equipment Request
+</p>
+<p>
 - Password Reset
+</p>
 </p>
 <br />
 
