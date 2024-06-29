@@ -27,7 +27,7 @@ This tutorial outlines the post-install configuration of the open-source help de
 <h2>Configuration Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/tct0teh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 First, we will configure the Roles. From the Admin Panel, go to Agents -> Roles. Add "Supreme Admin" Role. 
@@ -35,7 +35,7 @@ First, we will configure the Roles. From the Admin Panel, go to Agents -> Roles.
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SAdOLsG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we will configure the Deparments. From the Admin Panel, go to Agents -> Departments. Add "System Administrators" Department.
@@ -43,7 +43,7 @@ Next, we will configure the Deparments. From the Admin Panel, go to Agents -> De
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/79x0Kge.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next we will configure the Teams. From the Admin Panel, go to Agents -> Teams. Add the "Level I Support" and "Level II Support" Teams.
@@ -51,7 +51,7 @@ Next we will configure the Teams. From the Admin Panel, go to Agents -> Teams. A
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/fBl72VL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now, we will allow anyone to create tickets for our help desk. From the Admin Panel, go to Settings -> User Settings. Require registration and login to create tickets. 
@@ -59,7 +59,7 @@ Now, we will allow anyone to create tickets for our help desk. From the Admin Pa
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/CDwyH2z.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we will add some Agents. From the Admin Panel, go to Agents -> Add New. Add some agents here, and name them as you like (eg. Jane and John).
@@ -67,7 +67,7 @@ Next, we will add some Agents. From the Admin Panel, go to Agents -> Add New. Ad
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/USBL2R8.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Next, we will add some Users. From the Admin Panel, go to Users -> Add New. Add some users here, and name them as you like (eg. Karen and Ken).
@@ -75,7 +75,7 @@ Next, we will add some Users. From the Admin Panel, go to Users -> Add New. Add 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MLlQeot.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now, we will configure SLA. From the Admin Panel, go to Manage -> SLA. Here we will add 3 SLA: 
@@ -92,7 +92,7 @@ Now, we will configure SLA. From the Admin Panel, go to Manage -> SLA. Here we w
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/YjpAAFb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Finally, we will configure Help Topics. From the Admin Panel, go to Manage -> Help Topics. We will add the following Help Topics: 
